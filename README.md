@@ -17,3 +17,7 @@ Codwa Studio adalah studio digital berbasis di Jakarta yang membantu bisnis memb
 ## Location
 
 Jl. Raya Bogor, Pekayon, Pasar Rebo, Jakarta Timur, DKI Jakarta 13740, Indonesia.
+
+## Open source
+
+- [codwa-tools](https://github.com/codwastudio/codwa-tools): 13 free SEO and developer tools you can self-host (Laravel, MIT, English and Indonesian). The hosted version is at [codwastudio.com/en/tools](https://codwastudio.com/en/tools).
